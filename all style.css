@@ -121,7 +121,7 @@ h1{
     background: #00FFA3;
 }
 .bg{
-    background-image:url(/assets/images/background-img.png);
+    background-image:url(assets/images/background-img.png);
     background-size:cover;
     background-repeat:no-repeat;
 
