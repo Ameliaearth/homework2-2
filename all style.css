@@ -168,13 +168,15 @@ h1{
 }
 .warp-4{
     width:636px;
-    height: 328px;
+
     margin-right: 134px;
     display: inline-flex;
     flex-wrap:wrap;
 }
 .w-306{
     width: 306px;
+}
+.box-1{
     padding: 16px;
     border: 1px solid #E3E3E3;
     box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.08);
@@ -196,9 +198,6 @@ h1{
 }
 .fs20{
     font-size: 20px;
-}
-.fs16{
-    font-size: 16px;
 }
 .black{
     color: #15161D;
@@ -244,7 +243,7 @@ h3{
     text-align: left;
     width:746px;
 }
-.ml-auto{
+.box-2{
     display: flex;
     margin-left: auto;
 }
